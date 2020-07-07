@@ -10,7 +10,7 @@ import lombok.ToString;
 @AllArgsConstructor
 @ToString
 public class TeamAmountByRoleDTO {
-    String label;
-    String role;
-    Long amount;
+    private String label;
+    private String role;
+    private Long amount;
 }

@@ -10,6 +10,6 @@ import lombok.ToString;
 @ToString
 @AllArgsConstructor
 public class RoleCountDTO {
-	public String role;
-	public Long count;
+	private String role;
+	private Long count;
 }

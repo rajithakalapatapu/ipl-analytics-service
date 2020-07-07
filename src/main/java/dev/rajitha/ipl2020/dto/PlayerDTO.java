@@ -8,7 +8,7 @@ import lombok.*;
 @NoArgsConstructor
 @ToString
 public class PlayerDTO {
-    String player;
-    Long price;
-    String role;
+    private String player;
+    private Long price;
+    private String role;
 }

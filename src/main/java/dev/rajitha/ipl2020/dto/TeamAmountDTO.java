@@ -10,6 +10,6 @@ import lombok.ToString;
 @AllArgsConstructor
 @ToString
 public class TeamAmountDTO {
-	String label;
-	Long amount;
+	private String label;
+	private Long amount;
 }
