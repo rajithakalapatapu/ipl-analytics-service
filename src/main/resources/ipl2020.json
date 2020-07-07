@@ -1,0 +1,1023 @@
+[
+    {
+        "city": "Mumbai, Maharashtra",
+        "coach": "Mahela Jaywardene",
+        "home": "Wankhede Stadium, Mumbai",
+        "team": "Mumbai Indians",
+        "label": "MI",
+        "players":[
+            {
+               "player": "Rohit Sharma (R)",
+               "price": 150000000,
+               "role": "Batsman"
+             },
+             {
+               "player": "Anmolpreet Singh (R)",
+               "price": 8000000,
+               "role": "Batsman"
+             },
+             {
+               "player": "Ankul Roy (R)",
+               "price": 2000000,
+               "role": "Batsman"
+             },
+             {
+               "player": "Sherfane Rutherford (R)",
+               "price": 20000000,
+               "role": "Batsman"
+             },
+             {
+               "player": "Suryakumar Yadav (R)",
+               "price": 32000000,
+               "role": "Batsman"
+             },
+             {
+               "player": "Chris Lynn",
+               "price": 20000000,
+               "role": "Batsman"
+             },
+             {
+               "player": "Saurabh Tiwary",
+               "price": 5000000,
+               "role": "Batsman"
+             },
+             {
+               "player": "Aditya Tare (R)",
+               "price": 2000000,
+               "role": "Wicket Keeper"
+             },
+             {
+               "player": "Ishan Kishan (R)",
+               "price": 62000000,
+               "role": "Wicket Keeper"
+             },
+             {
+               "player": "Quinton de Kock (R)",
+               "price": 28000000,
+               "role": "Wicket Keeper"
+             },
+             {
+               "player": "Hardik Pandya (R)",
+               "price": 110000000,
+               "role": "All-Rounder"
+             },
+             {
+               "player": "Kieron Pollard (R)",
+               "price": 54000000,
+               "role": "All-Rounder"
+             },
+             {
+               "player": "Krunal Pandya (R)",
+               "price": 88000000,
+               "role": "All-Rounder"
+             },
+             {
+               "player": "Rahul Chahar (R)",
+               "price": 19000000,
+               "role": "All-Rounder"
+             },
+             {
+               "player": "Digvijay Deshmukh",
+               "price": 2000000,
+               "role": "All-Rounder"
+             },
+             {
+               "player": "Prince Balwant Rai Singh",
+               "price": 2000000,
+               "role": "All-Rounder"
+             },
+             {
+               "player": "Dhawal Kulkarni (R)",
+               "price": 7500000,
+               "role": "Bowler"
+             },
+             {
+               "player": "Jasprit Bumrah (R)",
+               "price": 70000000,
+               "role": "Bowler"
+             },
+             {
+               "player": "Jayant Yadav (R)",
+               "price": 5000000,
+               "role": "Bowler"
+             },
+             {
+               "player": "Lasith Malinga (R)",
+               "price": 20000000,
+               "role": "Bowler"
+             },
+             {
+               "player": "Mitchell McClenaghan (R)",
+               "price": 10000000,
+               "role": "Bowler"
+             },
+             {
+               "player": "Trent Boult (R)",
+               "price": 32000000,
+               "role": "Bowler"
+             },
+             {
+               "player": "Nathan Coulter-Nile",
+               "price": 80000000,
+               "role": "Bowler"
+             },
+             {
+               "player": "Mohsin Khan",
+               "price": 2000000,
+               "role": "Bowler"
+             }
+           ]
+       
+    },
+   
+    {
+        "city": "Delhi, NCR",
+        "coach": "Ricky Ponting",
+        "home": "Feroz Shah Kotla Ground",
+        "team": "Delhi Capitals",
+        "label": "DC",
+        "players":[
+    
+            {
+              "player": "Shreyas Iyer (R)",
+              "price": 70000000,
+              "role": "Batsman"
+            },
+            {
+              "player": "Ajinkya Rahane (R)",
+              "price": 52500000,
+              "role": "Batsman"
+            },
+            {
+              "player": "Avesh Khan (R)",
+              "price": 7000000,
+              "role": "Batsman"
+            },
+            {
+              "player": "Keemo Paul (R)",
+              "price": 5000000,
+              "role": "Batsman"
+            },
+            {
+              "player": "Prithvi Shaw (R)",
+              "price": 12000000,
+              "role": "Batsman"
+            },
+            {
+              "player": "Shikhar Dhawan (R)",
+              "price": 52000000,
+              "role": "Batsman"
+            },
+            {
+              "player": "Shimron Heymyer",
+              "price": 77500000,
+              "role": "Batsman"
+            },
+            {
+              "player": "Jason Roy",
+              "price": 15000000,
+              "role": "Batsman"
+            },
+            {
+              "player": "Rishabh Pant (R)",
+              "price": 150000000,
+              "role": "Wicket Keeper"
+            },
+            {
+              "player": "Alex Carey",
+              "price": 24000000,
+              "role": "Wicket Keeper"
+            },
+            {
+              "player": "Marcus Stoinis",
+              "price": 48000000,
+              "role": "All-Rounder"
+            },
+            {
+              "player": "Lalit Yadav",
+              "price": 2000000,
+              "role": "All-Rounder"
+            },
+            {
+              "player": "Chris Woakes",
+              "price": 15000000,
+              "role": "All-Rounder"
+            },
+            {
+              "player": "Ravichandran Ashwin (R)",
+              "price": 76000000,
+              "role": "Bowler"
+            },
+            {
+              "player": "Sandeep Lamichhane (R)",
+              "price": 2000000,
+              "role": "Bowler"
+            },
+            {
+              "player": "Axax Patel (R)",
+              "price": 50000000,
+              "role": "Bowler"
+            },
+            {
+              "player": "Harshal Patel (R)",
+              "price": 2000000,
+              "role": "Bowler"
+            },
+            {
+              "player": "Ishant Sharma (R)",
+              "price": 11000000,
+              "role": "Bowler"
+            },
+            {
+              "player": "Kagiso Rabada (R)",
+              "price": 42000000,
+              "role": "Bowler"
+            },
+            {
+              "player": "Mohit Sharma",
+              "price": 5000000,
+              "role": "Bowler"
+            },
+            {
+              "player": "Tushar Deshpande",
+              "price": 2000000,
+              "role": "Bowler"
+            },
+            {
+              "player": "Amit Mishra (R)",
+              "price": 40000000,
+              "role": "Bowler"
+            }
+          ]
+    },
+    {
+        "city": "Mohali, Punjab",
+        "coach": "Anil Kumble",
+        "home": "IS Bindra Stadium",
+        "team": "Kings XI Punjab",
+        "label": "KXIP",
+        "players":
+        [
+            {
+               "player": "Karun Nair (R)",
+               "price": 56000000,
+               "role": "Batsman"
+             },
+             {
+               "player": "Arshdeep Singh (R)",
+               "price": 2000000,
+               "role": "Batsman"
+             },
+             {
+               "player": "Chris Gayle (R)",
+               "price": 20000000,
+               "role": "Batsman"
+             },
+             {
+               "player": "Darshan Nalkande (R)",
+               "price": 3000000,
+               "role": "Batsman"
+             },
+             {
+               "player": "Gowtham Krishnappa (R)",
+               "price": 62000000,
+               "role": "Batsman"
+             },
+             {
+               "player": "Hardus Viljoen (R)",
+               "price": 7500000,
+               "role": "Batsman"
+             },
+             {
+               "player": "Harpreet Brar (R)",
+               "price": 2000000,
+               "role": "Batsman"
+             },
+             {
+               "player": "Mayank Agarwal (R)",
+               "price": 10000000,
+               "role": "Batsman"
+             },
+             {
+               "player": "Nicholas Pooran (R)",
+               "price": 42000000,
+               "role": "Batsman"
+             },
+             {
+               "player": "Sarfaraz Khan (R)",
+               "price": 2500000,
+               "role": "Batsman"
+             },
+             {
+               "player": "Prabhsimran Singh",
+               "price": 5500000,
+               "role": "Wicket Keeper"
+             },
+             {
+               "player": "KL Rahul (R)",
+               "price": 110000000,
+               "role": "Wicket Keeper"
+             },
+             {
+               "player": "Mandeep Singh (R)",
+               "price": 14000000,
+               "role": "All-Rounder"
+             },
+             {
+               "player": "Glenn Maxwell",
+               "price": 107500000,
+               "role": "All-Rounder"
+             },
+             {
+               "player": "Chris Jordan",
+               "price": 30000000,
+               "role": "All-Rounder"
+             },
+             {
+               "player": "Deepak Hooda",
+               "price": 5000000,
+               "role": "All-Rounder"
+             },
+             {
+               "player": "James Neesham",
+               "price": 5000000,
+               "role": "All-Rounder"
+             },
+             {
+               "player": "Tajinder Dhillon",
+               "price": 2000000,
+               "role": "All-Rounder"
+             },
+             {
+               "player": "Ishan Patel",
+               "price": 2000000,
+               "role": "Bowler"
+             },
+             {
+               "player": "Jagadeesha Suchith (R)",
+               "price": 2000000,
+               "role": "Bowler"
+             },
+             {
+               "player": "Mohammad Shami (R)",
+               "price": 48000000,
+               "role": "Bowler"
+             },
+             {
+               "player": "Ravi Bishnoi",
+               "price": 20000000,
+               "role": "Bowler"
+             },
+             {
+               "player": "Sheldon Cottrell",
+               "price": 85000000,
+               "role": "Bowler"
+             },
+             {
+               "player": "Murugan Ashwin (R)",
+               "price": 2000000,
+               "role": "Bowler"
+             }
+           ]
+    },
+    {
+        "city": "Kolkata, West Bengal",
+        "coach": "Brendon McCullum",
+        "home": "Eden Gardens",
+        "team": "Kolkata Knight Riders",
+        "label": "KKR",
+        "players":[
+            {
+              "player": "Andre Russell (R)",
+              "price": 85000000,
+              "role": "Batsman"
+            },
+            {
+              "player": "Harry Gurney (R)",
+              "price": 7500000,
+              "role": "Batsman"
+            },
+            {
+              "player": "Kamlesh Nagarkoti (R)",
+              "price": 32000000,
+              "role": "Batsman"
+            },
+            {
+              "player": "Lockie Ferguson (R)",
+              "price": 16000000,
+              "role": "Batsman"
+            },
+            {
+              "player": "Nitish Rana (R)",
+              "price": 34000000,
+              "role": "Batsman"
+            },
+            {
+              "player": "Prasidh Krishna (R)",
+              "price": 2000000,
+              "role": "Batsman"
+            },
+            {
+              "player": "Rinku Singh (R)",
+              "price": 8000000,
+              "role": "Batsman"
+            },
+            {
+              "player": "Shubham Gill (R)",
+              "price": 18000000,
+              "role": "Batsman"
+            },
+            {
+              "player": "Siddhesh Lad (R)",
+              "price": 2000000,
+              "role": "Batsman"
+            },
+            {
+              "player": "Eoin Morgan",
+              "price": 52500000,
+              "role": "Batsman"
+            },
+            {
+              "player": "Tom Banton",
+              "price": 10000000,
+              "role": "Batsman"
+            },
+            {
+              "player": "Rahul Tripathi",
+              "price": 6000000,
+              "role": "Batsman"
+            },
+            {
+              "player": "Dinesh Karthik (R)",
+              "price": 74000000,
+              "role": "Wicket Keeper"
+            },
+            {
+              "player": "Nikhil Shankar Naik",
+              "price": 2000000,
+              "role": "Wicket Keeper"
+            },
+            {
+              "player": "Sunil Narine (R)",
+              "price": 125000000,
+              "role": "All-Rounder"
+            },
+            {
+              "player": "Pat Cummins",
+              "price": 155000000,
+              "role": "All-Rounder"
+            },
+            {
+              "player": "Shivam Mavi (R)",
+              "price": 30000000,
+              "role": "All-Rounder"
+            },
+            {
+              "player": "Varun Chakaravarthy",
+              "price": 40000000,
+              "role": "All-Rounder"
+            },
+            {
+              "player": "Chris Green",
+              "price": 2000000,
+              "role": "All-Rounder"
+            },
+            {
+              "player": "Kuldeep Yadav (R)",
+              "price": 58000000,
+              "role": "Bowler"
+            },
+            {
+              "player": "Sandeep Warrier (R)",
+              "price": 2000000,
+              "role": "Bowler"
+            },
+            {
+              "player": "Pravin Tambe",
+              "price": 2000000,
+              "role": "Bowler"
+            },
+            {
+              "player": "M Siddharth",
+              "price": 2000000,
+              "role": "Bowler"
+            }
+          ]
+
+    },
+    {
+        "city": "Jaipur, Rajasthan",
+        "coach": "Andrew McDonald",
+        "home": "Sawai Mansingh Stadium",
+        "team": "Rajasthan Royals",
+        "label": "RR",
+        "players":
+         [
+            {
+                "player": "Riyan Parag (R)",
+                "price": 2000000,
+                "role": "Batsman"
+              },
+              {
+                "player": "Shashank Singh (R)",
+                "price": 3000000,
+                "role": "Batsman"
+              },
+              {
+                "player": "Steve Smith (R)",
+                "price": 125000000,
+                "role": "Batsman"
+              },
+              {
+                "player": "Robin Uthappa",
+                "price": 30000000,
+                "role": "Batsman"
+              },
+              {
+                "player": "David Miller",
+                "price": 7500000,
+                "role": "Batsman"
+              },
+              {
+                "player": "Manan Vohra (R)",
+                "price": 2000000,
+                "role": "Batsman"
+              },
+              {
+                "player": "Jos Butler (R)",
+                "price": 44000000,
+                "role": "Wicket Keeper"
+              },
+              {
+                "player": "Sanju Samson (R)",
+                "price": 80000000,
+                "role": "Wicket Keeper"
+              },
+              {
+                "player": "Anuj Rawat",
+                "price": 8000000,
+                "role": "Wicket Keeper"
+              },
+              {
+                "player": "Ben Stokes (R)",
+                "price": 125000000,
+                "role": "All-Rounder"
+              },
+              {
+                "player": "Mahipal Lmoror (R)",
+                "price": 2000000,
+                "role": "All-Rounder"
+              },
+              {
+                "player": "Shreyas Gopal (R)",
+                "price": 2000000,
+                "role": "All-Rounder"
+              },
+              {
+                "player": "Yashasvi Jaiswal",
+                "price": 24000000,
+                "role": "All-Rounder"
+              },
+              {
+                "player": "Tom Curran",
+                "price": 10000000,
+                "role": "All-Rounder"
+              },
+              {
+                "player": "Ankit Rajpoot (R)",
+                "price": 30000000,
+                "role": "Bowler"
+              },
+              {
+                "player": "Jofra Archer (R)",
+                "price": 72000000,
+                "role": "Bowler"
+              },
+              {
+                "player": "Mayank Markande (R)",
+                "price": 20000000,
+                "role": "Bowler"
+              },
+              {
+                "player": "Rahul Tweatia (R)",
+                "price": 30000000,
+                "role": "Bowler"
+              },
+              {
+                "player": "Varun Aaron (R)",
+                "price": 24000000,
+                "role": "Bowler"
+              },
+              {
+                "player": "Jaydev Unadkat",
+                "price": 30000000,
+                "role": "Bowler"
+              },
+              {
+                "player": "Kartik Tyagi",
+                "price": 13000000,
+                "role": "Bowler"
+              },
+              {
+                "player": "Andrew Tye",
+                "price": 10000000,
+                "role": "Bowler"
+              },
+              {
+                "player": "Oshane Thomas",
+                "price": 5000000,
+                "role": "Bowler"
+              },
+              {
+                "player": "Anirudha Ashok Joshi",
+                "price": 2000000,
+                "role": "All-Rounder"
+              },
+              {
+                "player": "Akash Singh",
+                "price": 2000000,
+                "role": "Bowler"
+              }
+            ]
+    },
+    {
+        "city": "Bengaluru, Karnataka",
+        "coach": "Simon Katich",
+        "home": "M. Chinnaswamy Stadium",
+        "team": "Royal Challengers Bangalore",
+        "label": "RCB",
+        "players":[
+            {
+                "player": "Virat Kohli (R)",
+                "price": 170000000,
+                "role": "Batsman"
+              },
+              {
+                "player": "AB de Villiers (R)",
+                "price": 110000000,
+                "role": "Batsman"
+              },
+              {
+                "player": "Devdutt Padikkal (R)",
+                "price": 2000000,
+                "role": "Batsman"
+              },
+              {
+                "player": "Gurkeerat Singh (R)",
+                "price": 5000000,
+                "role": "Batsman"
+              },
+              {
+                "player": "Aaron Finch",
+                "price": 44000000,
+                "role": "Batsman"
+              },
+              {
+                "player": "Shahbaz Ahamad",
+                "price": 2000000,
+                "role": "Wicket Keeper"
+              },
+              {
+                "player": "Joshua Philippe",
+                "price": 2000000,
+                "role": "Wicket Keeper"
+              },
+              {
+                "player": "Pathiv Patel (R)",
+                "price": 17000000,
+                "role": "Wicket Keeper"
+              },
+              {
+                "player": "Pawan Negi (R)",
+                "price": 10000000,
+                "role": "All-Rounder"
+              },
+              {
+                "player": "Shivam Dube (R)",
+                "price": 50000000,
+                "role": "All-Rounder"
+              },
+              {
+                "player": "Moeen Ali (R)",
+                "price": 17000000,
+                "role": "All-Rounder"
+              },
+              {
+                "player": "Isuru Udana",
+                "price": 5000000,
+                "role": "All-Rounder"
+              },
+              {
+                "player": "Pavan Deshpande",
+                "price": 2000000,
+                "role": "All-Rounder"
+              },
+              {
+                "player": "Christopher Morris",
+                "price": 100000000,
+                "role": "All-Rounder"
+              },
+              {
+                "player": "Kane Richardson",
+                "price": 40000000,
+                "role": "Bowler"
+              },
+              {
+                "player": "Dale Steyn",
+                "price": 20000000,
+                "role": "Bowler"
+              },
+              {
+                "player": "Mohammaed Siraj (R)",
+                "price": 26000000,
+                "role": "Bowler"
+              },
+              {
+                "player": "Navdeep Saini (R)",
+                "price": 30000000,
+                "role": "Bowler"
+              },
+              {
+                "player": "Umesh Yadav (R)",
+                "price": 42000000,
+                "role": "Bowler"
+              },
+              {
+                "player": "Washington Sundar (R)",
+                "price": 32000000,
+                "role": "Bowler"
+              },
+              {
+                "player": "Yuzvendra Chahal (R)",
+                "price": 60000000,
+                "role": "Bowler"
+              }
+            ]
+
+    },
+    {
+        "city": "Hyderabad, Telengana",
+        "coach": "Trevor Bayliss",
+        "home": "Rajiv Gandhi International Cricket Stadium",
+        "team": "Sunrisers Hyderabad",
+        "label": "SRH",
+        "players" :[
+            {
+               "player": "Kane Williamson",
+               "price": 30000000,
+               "role": "Batsman"
+             },
+             {
+               "player": "Abhishek Sharma (R)",
+               "price": 5500000,
+               "role": "Batsman"
+             },
+             {
+               "player": "David Warner (R)",
+               "price": 125000000,
+               "role": "Batsman"
+             },
+             {
+               "player": "Manish Pandey (R)",
+               "price": 110000000,
+               "role": "Batsman"
+             },
+             {
+               "player": "Priyam Garg",
+               "price": 19000000,
+               "role": "Batsman"
+             },
+             {
+               "player": "Virat Singh",
+               "price": 19000000,
+               "role": "Batsman"
+             },
+             {
+               "player": "Jonny Bairstow (R)",
+               "price": 22000000,
+               "role": "Wicket Keeper"
+             },
+             {
+               "player": "Shreevats Goswami (R)",
+               "price": 10000000,
+               "role": "Wicket Keeper"
+             },
+             {
+               "player": "Wridhhiman Saha (R)",
+               "price": 12000000,
+               "role": "Wicket Keeper"
+             },
+             {
+               "player": "Vijay Shankar (R)",
+               "price": 32000000,
+               "role": "All-Rounder"
+             },
+             {
+               "player": "Mitchell Marsh",
+               "price": 20000000,
+               "role": "All-Rounder"
+             },
+             {
+               "player": "Mohammad Nabi (R)",
+               "price": 10000000,
+               "role": "All-Rounder"
+             },
+             {
+               "player": "Fabian Allen",
+               "price": 5000000,
+               "role": "All-Rounder"
+             },
+             {
+               "player": "Sandeep Bavanaka",
+               "price": 2000000,
+               "role": "All-Rounder"
+             },
+             {
+               "player": "Sanjay Yadav",
+               "price": 2000000,
+               "role": "All-Rounder"
+             },
+             {
+               "player": "Abdul Samad",
+               "price": 2000000,
+               "role": "All-Rounder"
+             },
+             {
+               "player": "Basil Thampi (R)",
+               "price": 9500000,
+               "role": "Bowler"
+             },
+             {
+               "player": "Bhuvneshwar Kumar (R)",
+               "price": 85000000,
+               "role": "Bowler"
+             },
+             {
+               "player": "Billy Stanlake (R)",
+               "price": 5000000,
+               "role": "Bowler"
+             },
+             {
+               "player": "Rashid Khan (R)",
+               "price": 90000000,
+               "role": "Bowler"
+             },
+             {
+               "player": "Sandeep Sharma (R)",
+               "price": 30000000,
+               "role": "Bowler"
+             },
+             {
+               "player": "Shahbaz Nadeem (R)",
+               "price": 32000000,
+               "role": "Bowler"
+             },
+             {
+               "player": "Siddarth Kaul (R)",
+               "price": 38000000,
+               "role": "Bowler"
+             },
+             {
+               "player": "Syed Khaleel Ahmed (R)",
+               "price": 30000000,
+               "role": "Bowler"
+             },
+             {
+               "player": "T Natarajan (R)",
+               "price": 4000000,
+               "role": "Bowler"
+             }
+           ]
+    },
+
+
+    {
+        "city": "Chennai, Tamil Nadu",
+        "coach": "Stephen Fleming",
+        "home": "M.A. Chidambaram Stadium, Chennai",
+        "team": "Chennai Super Kings",
+        "label": "CSK",
+        "players": [
+            {
+                "player": "Ambati Rayadu (R)",
+                "price": 22000000.0,
+                "role": "Batsman"
+            },
+            {
+                "player": "Monu Singh (R)",
+                "price": 2000000.0,
+                "role": "Batsman"
+            },
+            {
+                "player": "Murali Vijay (R)",
+                "price": 20000000.0,
+                "role": "Batsman"
+            },
+            {
+                "player": "Ruturaj Gaikwad (R)",
+                "price": 2000000.0,
+                "role": "Batsman"
+            },
+            {
+                "player": "Suresh Raine (R)",
+                "price": 110000000.0,
+                "role": "Batsman"
+            },
+            {
+                "player": "MS Dhoni (R)",
+                "price": 150000000.0,
+                "role": "Wicket Keeper"
+            },
+            {
+                "player": "Jagadeesan Narayan (R)",
+                "price": 2000000.0,
+                "role": "Wicket Keeper"
+            },
+            {
+                "player": "Asif K M (R)",
+                "price": 4000000.0,
+                "role": "All-Rounder"
+            },
+            {
+                "player": "Dwayne Bravo (R)",
+                "price": 64000000.0,
+                "role": "All-Rounder"
+            },
+            {
+                "player": "Faf du Plessis (R)",
+                "price": 16000000.0,
+                "role": "All-Rounder"
+            },
+            {
+                "player": "Karn Sharma (R)",
+                "price": 50000000.0,
+                "role": "All-Rounder"
+            },
+            {
+                "player": "Kedar Jadhav (R)",
+                "price": 78000000.0,
+                "role": "All-Rounder"
+            },
+            {
+                "player": "Ravindra jadeja (R)",
+                "price": 70000000.0,
+                "role": "All-Rounder"
+            },
+            {
+                "player": "Shane Watson (R)",
+                "price": 40000000.0,
+                "role": "All-Rounder"
+            },
+            {
+                "player": "Sam Curran",
+                "price": 55000000.0,
+                "role": "All-Rounder"
+            },
+            {
+                "player": "Deepak Chahar (R)",
+                "price": 8000000.0,
+                "role": "Bowler"
+            },
+            {
+                "player": "Harbhajan Singh (R)",
+                "price": 20000000.0,
+                "role": "Bowler"
+            },
+            {
+                "player": "Imran Tahir (R)",
+                "price": 10000000.0,
+                "role": "Bowler"
+            },
+            {
+                "player": "Lungisani Ngidi (R)",
+                "price": 5000000.0,
+                "role": "Bowler"
+            },
+            {
+                "player": "Mitchell Santner (R)",
+                "price": 5000000.0,
+                "role": "Bowler"
+            },
+            {
+                "player": "Shardul Thakur (R)",
+                "price": 26000000.0,
+                "role": "Bowler"
+            },
+            {
+                "player": "Piyush Chawla",
+                "price": 67500000.0,
+                "role": "Bowler"
+            },
+            {
+                "player": "Josh Hazlewood",
+                "price": 20000000.0,
+                "role": "Bowler"
+            },
+            {
+                "player": "R. Sai Kishore",
+                "price": 2000000.0,
+                "role": "Bowler"
+            }
+        ]
+    }
+]
